@@ -1,0 +1,1 @@
+displayHello = "Hello CS370. Welcome to Haskell"
